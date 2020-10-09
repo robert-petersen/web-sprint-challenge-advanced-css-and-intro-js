@@ -228,7 +228,7 @@ Create a function called `getArtistByIndex` that takes two arguments:
  * it will return `The artist at index 0 is Amedeo Modigliani`.
 */
 function getArtistByIndex(array, index) {
-  return `The artist at index ${array[index].id} is ${array[index].name}.`
+  return `the artist at index ${array[index].id} is ${array[index].name}`
 }
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
